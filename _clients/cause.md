@@ -1,8 +1,8 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+name: This could be you
+subtitle: Become my first client for free
+external_url: 
+image_path: /images/clients/empty.png
 ---
 
 Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).
