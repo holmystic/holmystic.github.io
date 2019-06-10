@@ -13,7 +13,7 @@ After I successfully bring you more clients, of course.
 
 * Design and run Facebook Ads to send people to a landing page
 * Design and create a landing page to get people to sign up for a free consultation from you
-* Monitor the analitics to bring you more leads that will become clients
+* Monitor the analytics to bring you more leads that will become clients
 
 ## What You Pay For
 
