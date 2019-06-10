@@ -10,7 +10,7 @@ I am looking for 1-2 free trial clients, the first to contact me will get the de
 ## Free Offer
 
 * Design and run Facebook Ads to send people to a landing page
-* Design and create a landing page to get people to sign up for a free consultation from you
+* Design and create a landing page to get people to sign up for a free consultation
 * Monitor the analytics to bring you more leads that will become clients
 
 ## What You Pay For
@@ -18,4 +18,4 @@ I am looking for 1-2 free trial clients, the first to contact me will get the de
 * The cost of the Facebook Ads
 * The subscription fee to Click Funnels account
 
-To get the offer simply fill out the contact form
+To get the offer simply fill out the contact form or send me an email
