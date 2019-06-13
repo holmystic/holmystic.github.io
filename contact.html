@@ -9,6 +9,24 @@ map:
   zoom: 13
 ---
 
+<section class="diagonal patterned">
+	<div class="container halves aligned-top">
+		<div>
+			<h3>Call</h3>
+			<p><a href="tel:+1{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a></p>
+		</div>
+		<div>
+			<h3>Text</h3>
+			<p><a href="sms:+1{{ site.data.company.contact_phone_number }}?body=Hello, I am interested in working with {{ site.data.company.title }}">{{ site.data.company.contact_phone_number }}</a></p>
+		</div>
+		<div>
+			<h3>Email</h3>
+			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
+		</div>
+	</div>
+</section>
+
+
 <section class="diagonal">
 	<div class="container">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
@@ -42,22 +60,7 @@ map:
 	<div id="gmap_canvas"></div>
 </section>
 -->
-<section class="diagonal patterned">
-	<div class="container halves aligned-top">
-		<div>
-			<h3>Call</h3>
-			<p><a href="tel:+1{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a></p>
-		</div>
-		<div>
-			<h3>Text</h3>
-			<p><a href="sms:+1{{ site.data.company.contact_phone_number }}?body=Hello, I am interested in working with {{ site.data.company.title }}">{{ site.data.company.contact_phone_number }}</a></p>
-		</div>
-		<div>
-			<h3>Email</h3>
-			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
-		</div>
-	</div>
-</section>
+
 
 <script type="text/javascript">
 	window.mapData = {{ page.map | jsonify }};
